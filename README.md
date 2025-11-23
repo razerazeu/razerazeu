@@ -34,6 +34,3 @@ Here are some of the languages and frameworks I work with:
 
 ## Fun Fact
 I enjoy solving algorithm challenges, building helpful projects, and learning new stuff everyday.  
-
----
-![Batman](https://giphy.com/gifs/batman-cartoon-raining-m3SYKzhmod1IY)
