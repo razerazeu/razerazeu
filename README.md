@@ -36,3 +36,4 @@ Here are some of the languages and frameworks I work with:
 I enjoy solving algorithm challenges, building helpful projects, and learning new stuff everyday.  
 
 ---
+![Batman](https://tenor.com/view/test-gif-16381119425211019221)
