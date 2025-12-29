@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Omar Hossam
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** who loves **coding, building projects, and exploring new technologies**.  
+Welcome to my GitHub profile! I'm a passionate Computer Science student who loves coding, building projects, and exploring new technologies.  
 
 ---
 
