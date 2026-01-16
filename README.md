@@ -26,9 +26,9 @@ Here are some of the languages and frameworks I work with:
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=razerazeu&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=razerazeu&layout=compact&theme=radical)
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=razerazeu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=razerazeu&layout=compact&theme=radical)
 
 ---
 
