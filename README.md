@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Omar Hossam
+# Hey there! :)
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student who loves coding, building projects, and exploring new technologies.  
 
 ---
 
-## 🚀 Languages & Technologies
+## Languages & Technologies
 Here are some of the languages and frameworks I work with:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,13 +19,13 @@ Here are some of the languages and frameworks I work with:
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-hossam-3330752b5/)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=razerazeu&theme=radical)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=razerazeu&layout=compact&theme=radical)
 
